@@ -1,3 +1,0 @@
-/home/linzui/Code/c⁄c++/cmake/ common/build/CMakeFiles/app.dir
-/home/linzui/Code/c⁄c++/cmake/ common/build/CMakeFiles/edit_cache.dir
-/home/linzui/Code/c⁄c++/cmake/ common/build/CMakeFiles/rebuild_cache.dir
